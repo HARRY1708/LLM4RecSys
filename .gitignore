@@ -1,0 +1,17 @@
+# Ignore node_modules folder
+log/
+log_tensorboard/
+raw/
+saved/
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
